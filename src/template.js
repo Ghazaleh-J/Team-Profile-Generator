@@ -79,19 +79,16 @@ function generateTeam(employeeArray) {
     <title>Team Generator</title>
 </head>
 <body>
-
 <header>
 <h1> My Team </h1>
 </header>
-
 <main class="cardContainer">
 ${manager(employeeArray)}
 ${engineer(employeeArray)}
 ${intern(employeeArray)}
-</main>
-    
+</main>  
 </body>
-</html>`; // html body, head "entire doc"
+</html>`;
 }
 
 module.exports = generateTeam;
