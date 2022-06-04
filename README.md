@@ -23,9 +23,9 @@ A Node.js command-line application that takes in information about employees on 
 
 ## Links:
 
-* [Video Demo](https://drive.google.com/file/d/1juBNCpx-P9YUrUf90f0Ff8UE9I6YVIms/view)
+* [Video Demo](https://drive.google.com/file/d/1Lx_u3svj-aum9DMLRoklzvfaNIpbk3kf/view)
 
-* [Generated HTML](https://github.com/Ghazaleh-J/Team_Profile-_Generator_OOP-10/blob/main/dist/index.html)
+* [Generated HTML]()
 
 ## HTML Preview:
 
