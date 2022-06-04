@@ -29,4 +29,4 @@ A Node.js command-line application that takes in information about employees on 
 
 ## HTML Preview:
 
-![HTML Preview](./dist/html-preview.png)
+![HTML Preview](./dist/Assets/html-preview.png)
