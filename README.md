@@ -23,10 +23,10 @@ A Node.js command-line application that takes in information about employees on 
 
 ## Links:
 
-* [Video Demo]()
+* [Video Demo](https://drive.google.com/file/d/1juBNCpx-P9YUrUf90f0Ff8UE9I6YVIms/view)
 
-* [Generated HTML]()
+* [Generated HTML](https://github.com/Ghazaleh-J/Team_Profile-_Generator_OOP-10/blob/main/dist/index.html)
 
 ## HTML Preview:
 
-![HTML Preview]()
+![HTML Preview](./dist/html-preview.png)
