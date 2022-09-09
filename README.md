@@ -21,6 +21,18 @@ A Node.js command-line application that takes in information about employees on 
 
 * By selecting the exit option, the HTML is generated.
 
+## Installation
+* Copy the repository to your system
+* npm install
+* node index.js
+
+## Technologies
+* NodeJs
+* Inquirer package
+
+## Usage
+* Quickly and easily create a Team Org Web Page
+
 ## Links:
 
 * [Video Demo](https://drive.google.com/file/d/1Lx_u3svj-aum9DMLRoklzvfaNIpbk3kf/view)
