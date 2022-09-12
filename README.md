@@ -1,4 +1,4 @@
-# Team_Profile-_Generator_OOP-10
+# Team_Profile-_Generator_OOP
 
 ## Description
 A Node.js command-line application that takes in information about employees on a software engineering team, then generates an HTML webpage that displays summaries for each person. Testing is key to making code maintainable.
@@ -25,12 +25,12 @@ A Node.js command-line application that takes in information about employees on 
 ## Usage
 * Quickly and easily create a Team Org Web Page
 
-## Links:
+## Links
 
 * [Video Demo](https://drive.google.com/file/d/1Lx_u3svj-aum9DMLRoklzvfaNIpbk3kf/view)
 
 * [Generated HTML](https://github.com/Ghazaleh-J/Team_Profile-_Generator_OOP-10/blob/main/dist/index.html)
 
-## HTML Preview:
+## HTML Preview
 
 ![HTML Preview](./dist/Assets/html-preview.png)
